@@ -1,0 +1,25 @@
+[
+  {
+    "orderId": "ORD-20251105-3993",
+    "status": "placed",
+    "placedAt": "2025-11-05T12:40:27.989Z",
+    "customer": {
+      "name": "mmmmmmmmmmmmmm",
+      "email": "kkkkkkkkkkk@gmail.com",
+      "address": "kkkkkkkkkkkkkkk",
+      "phone": "kkkkkkkkkkkkkkk"
+    },
+    "items": [
+      {
+        "bookId": "t001",
+        "title": "Introduction to Algorithms",
+        "price": 79.9,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 79.9,
+    "shipping": 0,
+    "total": 79.9,
+    "notes": "Mock order"
+  }
+]
